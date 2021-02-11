@@ -1,5 +1,10 @@
+.minor h1, .minor h2 {
+  text-align: center;
+  padding: 20px;
+}
+
 .main {
-  background: tan;
+  background-color: tan;
 }
 
 .main h1 {
@@ -7,7 +12,7 @@
 }
 
 .main h2 {
-  background: #964b00;
+  background-color: #964b00;
 }
 
 .main h3 {
@@ -15,12 +20,11 @@
 }
 
 .minor {
-  background: silver;
+  background-color: silver;
 }
 
 .minor h1 {
   text-decoration: underline;
-  @inclu;
 }
 
 .minor h2 {
